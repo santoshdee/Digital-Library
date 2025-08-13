@@ -1,0 +1,12 @@
+{
+  "languages": {
+    "English": 9001,
+    "Telugu": 9002,
+    "Hindi": 9003
+  },
+  "genres": {
+    "Fiction": 9101,
+    "Science": 9102,
+    "History": 9103
+  }
+}
